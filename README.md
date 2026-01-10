@@ -4,4 +4,5 @@ Qījījī is a simple CLI clock app written in Python with such functions as clo
 ![ ](./photo_2026-01-10_11-16-58.jpg)
 
 Here is an example of running Qījījī:
-![ ](./Снимок экрана от 2026-01-10 12-13-27.png)
+
+![ ](./photo_2026-01-10_11-16-58.jpg)
